@@ -5,7 +5,7 @@ Fair club decisions on Solana: create a poll, every wallet votes once, results a
 Club votes usually run on forms and group chats: anyone can vote twice, and whoever runs the poll can quietly edit the results. ClubVote moves the ballot box into a Solana program. Create a poll, share its address, and every wallet gets exactly one vote — enforced by the program itself, not by trust. When a wallet votes, the program creates a voter-record account for it; a second vote from the same wallet fails on-chain, exactly as the demo shows.
 
 ## Demo
-- Video: https://youtu.be/ZIBWE4Gu1XI
+- Video: https://youtu.be/foJzYn18Fa8
 - Program ID: CKhrEj7ZyX49ZuaWGLubLyaSBwtQje3wLDaWA9UeYdEP
 
 ## How it works
